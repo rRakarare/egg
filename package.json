@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@funtech-inc/use-shader-fx": "^2.0.5",
+    "@radix-ui/react-navigation-menu": "^1.2.12",
     "@radix-ui/react-slot": "^1.2.0",
     "@react-three/drei": "^10.0.7",
     "@react-three/fiber": "^9.1.2",
